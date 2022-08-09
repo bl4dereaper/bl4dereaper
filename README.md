@@ -2,7 +2,9 @@
 - 
 - 👀 I’m interested in THREE.js, Javascript Web Dev, 3D spaces, Photogrammetry, Game Dev
 - 
-- 🌱 I’m currently learning THREE.js, C# for Unity, 3D modelling. Currently refreshing HTML, CSS, Javascript
+- 🐙 Currently refreshing HTML, CSS, Javascript
+-
+- 🌱 I’m currently learning THREE.js, C# for Unity, 3D modelling. (But not at the same time ! )
 - 
 - 💞️ I’m looking to work professionally as a front end web developer
 - 
