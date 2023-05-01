@@ -4,7 +4,7 @@
 - 
 - 🐙 Currently refreshing HTML, CSS, Javascript, and working on my flexbox 💪.
 -
-- 🌱 I’m currently learning THREE.js, C# for Unity, 3D modelling, go. (But not at the same time ! )
+- 🌱 I’m currently learning THREE.js, C# for Unity, 3D modelling, go.
 - 
 - 💞️ I’m looking to work professionally as a sofware or web developer.
 - 
