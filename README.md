@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @bl4dereaper AKA Tom Shrieve
 - 
-- 👀 I’m interested in THREE.js, Javascript Web Dev, 3D spaces, Photogrammetry, Game Dev
+- 👀 I’m interested in TPython, JavaScript, Micro Computers, Servers
 - 
-- 🐙 Currently refreshing HTML, CSS, Javascript, and working on my flexbox 💪.
--
-- 🌱 I’m currently learning THREE.js, C# for Unity, 3D modelling, go.
+- 🐙 Currently working on a portable, low-cost, solar powered bird song identifying device.
 - 
-- 💞️ I’m looking to work professionally as a sofware or web developer.
+- 💞️ I’m looking to change the world one day
 - 
 - 📫 How to reach me => tom@shrieveindustries.com
