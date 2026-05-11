@@ -4,6 +4,4 @@
 - 
 - 🐙 Currently working on a portable, low-cost, solar powered bird song identifying device.
 - 
-- 💞️ I’m looking to change the world one day
-- 
-- 📫 How to reach me => tom@shrieveindustries.com
+- 💞️ I’m looking to change the world one day.
