@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm **Tom Shrieve** (@bl4dereaper), an indie developer passionate about building privacy-focused applications and exploring the intersection of hardware and software. I love creating tools that empower users while respecting their data.
+Welcome to my GitHub profile! I'm @bl4dereaper, an indie developer passionate about building privacy-focused applications and exploring the intersection of hardware and software. I love creating tools that empower users while respecting their data.
 
 ## 🚀 About Me
 
