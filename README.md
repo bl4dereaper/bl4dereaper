@@ -43,8 +43,6 @@ Working on a portable, low-cost, solar-powered device that identifies bird songs
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bl4dereaper&show_icons=true&theme=radical)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bl4dereaper&layout=compact&theme=radical)
 
 ## 🛠️ What I'm Working On
