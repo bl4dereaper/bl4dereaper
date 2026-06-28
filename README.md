@@ -41,10 +41,6 @@ Working on a portable, low-cost, solar-powered device that identifies bird songs
 - **Privacy & Security** - Building applications that respect user data
 - **Off-grid Solutions** - Developing technology for connectivity anywhere
 
-## 📊 GitHub Statistics
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bl4dereaper&layout=compact&theme=radical)
-
 ## 🛠️ What I'm Working On
 
 - Building and refining my privacy-focused outdoor app with mesh networking capabilities
